@@ -19,3 +19,6 @@
 *.exe
 *.out
 *.app
+src/helloworld/helloworld.pro.user
+src/build-helloworld-Qt_5_3_0_MSVC2013_32bit-Debug/*
+src/build-helloworld-Qt_5_3_0_MSVC2013_32bit-Release/*
